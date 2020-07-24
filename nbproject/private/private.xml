@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Milestone1 20200424-03:01:02">
+            <file>file:/C:/Users/tahme/eclipse-workspaceu/m2CodeAlong/src/com/sg/classroster/controller/ClassRosterController.java</file>
+            <file>file:/C:/Users/tahme/eclipse-workspaceu/m2CodeAlong/src/com/sg/classroster/service/ClassRosterServiceLayerImpl.java</file>
+            <file>file:/C:/Users/tahme/eclipse-workspaceu/m2CodeAlong/src/com/sg/classroster/dao/ClassRosterDao.java</file>
+            <file>file:/C:/Users/tahme/eclipse-workspaceu/m2CodeAlong/src/com/sg/classroster/dao/ClassRosterAuditDao.java</file>
+            <file>file:/C:/Users/tahme/eclipse-workspaceu/m2CodeAlong/src/com/sg/classroster/service/ClassRosterServiceLayer.java</file>
+            <file>file:/C:/Users/tahme/eclipse-workspaceu/m2CodeAlong/src/com/sg/classroster/dao/ClassRosterPersistenceException.java</file>
+            <file>file:/C:/Users/tahme/eclipse-workspaceu/m2CodeAlong/src/com/sg/classroster/ui/UserIO.java</file>
+            <file>file:/C:/Users/tahme/eclipse-workspaceu/m2CodeAlong/src/com/sg/classroster/service/ClassRosterDuplicateIdException.java</file>
+            <file>file:/C:/Users/tahme/eclipse-workspaceu/m2CodeAlong/src/com/sg/classroster/dto/Student.java</file>
+            <file>file:/C:/Users/tahme/eclipse-workspaceu/m2CodeAlong/src/com/sg/classroster/ui/ClassRosterView.java</file>
+            <file>file:/C:/Users/tahme/eclipse-workspaceu/m2CodeAlong/src/com/sg/classroster/ui/UserIOConsoleImpl.java</file>
+            <file>file:/C:/Users/tahme/eclipse-workspaceu/m2CodeAlong/src/com/sg/classroster/dao/ClassRosterDaoFileImpl.java</file>
+            <file>file:/C:/Users/tahme/eclipse-workspaceu/m2CodeAlong/src/com/sg/classroster/service/ClassRosterDataValidationException.java</file>
+        </group>
+    </open-files>
+</project-private>
